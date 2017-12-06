@@ -1,0 +1,10 @@
+$font-stack: times,Helvetica, sans-serif;
+$primary-color: #333;
+$bg-color: #f4ac53;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+    background: $bg-color;
+}
+
